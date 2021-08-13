@@ -16,7 +16,7 @@ body {
   background-repeat: no-repeat;
   position:absolute;
 
-  animation: toRight linear 3.8s infinite alternate, bounce linear 10s infinite alternate;
+  animation: toRight linear 6.8s infinite alternate, bounce linear 17s infinite alternate;
 }
 
 @keyframes bounce {
